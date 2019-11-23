@@ -1,0 +1,252 @@
+{
+	"_id" : ObjectId("5d0b20c96ed42612a8f91003"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2008/1/1/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d796ed42612a8f9227e"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/26/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d7e6ed42612a8f9227f"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/27/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d826ed42612a8f92280"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/28/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d866ed42612a8f92281"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/29/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d8a6ed42612a8f92282"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/30/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d8e6ed42612a8f92283"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/8/31/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d926ed42612a8f92284"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/1/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d966ed42612a8f92285"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/2/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d9a6ed42612a8f92286"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/3/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2d9e6ed42612a8f92287"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/4/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2da26ed42612a8f92288"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/5/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2da66ed42612a8f92289"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/6/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2daa6ed42612a8f9228a"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/7/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2dae6ed42612a8f9228b"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/8/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2db26ed42612a8f9228c"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/9/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2db66ed42612a8f9228d"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/10/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2dba6ed42612a8f9228e"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/11/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b2dbe6ed42612a8f9228f"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2009/9/12/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b3b0d6ed42612a8f935a7"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2011/6/9/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b3b126ed42612a8f935a8"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2011/6/10/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b3b176ed42612a8f935a9"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2011/6/11/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b3b1c6ed42612a8f935aa"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2011/6/12/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b3c416ed42612a8f9372a"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2011/8/2/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b49ee6ed42612a8f94a43"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2013/5/16/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b49f76ed42612a8f94a44"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2013/5/17/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b4a016ed42612a8f94a45"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2013/5/18/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68c76ed42612a8f974e3"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/1/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68d66ed42612a8f974e4"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/2/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68da6ed42612a8f974e5"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/3/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68de6ed42612a8f974e6"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/4/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68e26ed42612a8f974e7"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/5/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68e66ed42612a8f974e8"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/6/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68ea6ed42612a8f974e9"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/7/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68ee6ed42612a8f974ea"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/8/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68f36ed42612a8f974eb"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/9/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68f76ed42612a8f974ec"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/10/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68fb6ed42612a8f974ed"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/11/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b68ff6ed42612a8f974ee"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/12/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b69036ed42612a8f974ef"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/13/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b69076ed42612a8f974f0"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/14/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b690b6ed42612a8f974f1"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/15/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b690f6ed42612a8f974f2"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/3/16/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6a9a6ed42612a8f97722"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/5/26/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6af06ed42612a8f9778b"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/6/9/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6c6b6ed42612a8f979a3"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/8/16/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6d856ed42612a8f97b1c"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/10/3/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6e566ed42612a8f97c2c"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/11/7/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6f0d6ed42612a8f97d24"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/12/9/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6f166ed42612a8f97d25"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2017/12/10/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b6fb76ed42612a8f97dfa"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/1/7/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b71036ed42612a8f97fb9"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/3/5/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b71126ed42612a8f97fc2"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/3/7/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b71c76ed42612a8f980a1"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/4/6/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b72c96ed42612a8f98201"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/5/21/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b72d36ed42612a8f98202"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/5/22/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b72fb6ed42612a8f9822b"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/5/28/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b73b06ed42612a8f98323"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/6/29/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b73b66ed42612a8f98324"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2018/6/30/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b7b2d6ed42612a8f98dfc"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2019/6/16/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b7b326ed42612a8f98dfd"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2019/6/17/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b7b376ed42612a8f98dfe"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2019/6/18/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
+{
+	"_id" : ObjectId("5d0b7b3d6ed42612a8f98dff"),
+	"failed_url" : "https://www.wunderground.com/history/wmo/43329/2019/6/19/DailyHistory.html?req_city=Bahur&req_state=PY&req_statename=India&reqdb.zip=00000&reqdb.magic=1&reqdb.wmo=43329"
+},
